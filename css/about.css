@@ -275,13 +275,7 @@ button {
 
 
 
-.row-1 .card {
-    border-bottom: 1px dashed black;
-    display: flex;
-    flex-direction: column;
-    justify-content: space-between;
 
-}
 
 .end-content {
     display: flex;
